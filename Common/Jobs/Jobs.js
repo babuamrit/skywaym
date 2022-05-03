@@ -11,7 +11,7 @@ const Jobs = () => {
       </div>
 
       <div className={job.innercontainer}>
-        <JobOpen imge="/j4.png" text="Constructions Industries" />
+        <JobOpen imge="/j4.PNG" text="Constructions Industries" />
         <JobOpen imge="/j5.jpg" text="Security Company" />
         <JobOpen imge="/j6.jpg" text="Hotels/Resorts/Restaurant" />
       </div>

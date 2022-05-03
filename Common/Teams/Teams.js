@@ -7,14 +7,14 @@ const Clients = () => {
       <div className={teamcss.heading}> Our Team</div>
       <div className={teamcss.innercontainer}>
         <Client
-          imge="/bhupendra.png"
+          imge="/bhupendra.PNG"
           text1="Bhupendra Khadriya"
           text2="Chairman"
         />
-        <Client imge="/manoj.png" text1="Bhupendra Khadriya" text2="Chairman" />
-        <Client imge="/cd12.png" text1="Bhupendra Khadriya" text2="Chairman" />
+        <Client imge="/manoj.PNG" text1="Bhupendra Khadriya" text2="Chairman" />
+        <Client imge="/cd12.PNG" text1="Bhupendra Khadriya" text2="Chairman" />
         <Client
-          imge="/tulashi.png"
+          imge="/tulashi.PNG"
           text1="Bhupendra Khadriya"
           text2="Chairman"
         />

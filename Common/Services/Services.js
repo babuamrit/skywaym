@@ -6,20 +6,20 @@ const Services = (props) => {
       {!props.noheading && <div className={service.heading}>Services</div>}
 
       <div className={service.servicecontainer}>
-        <Label labelimage="/people.png" text="Human Resource Planning" />
-        <Label labelimage="/handshake.png" text="Local Outsourcing " />
-        <Label labelimage="/lens.png" text="Overseas Recruitment " />
-        <Label labelimage="/orientation.png" text="Orientation and Training" />
+        <Label labelimage="/people.PNG" text="Human Resource Planning" />
+        <Label labelimage="/handshake.PNG" text="Local Outsourcing " />
+        <Label labelimage="/lens.PNG" text="Overseas Recruitment " />
+        <Label labelimage="/orientation.PNG" text="Orientation and Training" />
       </div>
       <div className={service.servicecontainer}>
-        <Label labelimage="/career.png" text="Career Planning" />
-        <Label labelimage="/health.png" text="Industrial Relations" />
-        <Label labelimage="/law.png" text="Health and Safety" />
-        <Label labelimage="/industrial.png" text="Labor Law Compliance" />
+        <Label labelimage="/career.PNG" text="Career Planning" />
+        <Label labelimage="/health.PNG" text="Industrial Relations" />
+        <Label labelimage="/law.PNG" text="Health and Safety" />
+        <Label labelimage="/industrial.PNG" text="Labor Law Compliance" />
       </div>
       <div className={service.servicecontainer}>
-        <Label labelimage="/emigration.png" text="Emigration" />
-        <Label labelimage="/visa.png" text="Visa Consultation" />
+        <Label labelimage="/emigration.PNG" text="Emigration" />
+        <Label labelimage="/visa.PNG" text="Visa Consultation" />
         <div style={{ height: "50px", flex: "2" }} />
       </div>
     </div>
