@@ -12,7 +12,7 @@ const AppBar = () => {
     <div className={appbar.container}>
       <div className={appbar.logocontainer}>
         <img
-          src="/logo.png"
+          src="/logo.PNG"
           className={appbar.logo}
           style={{ height: "55px" }}
         />
