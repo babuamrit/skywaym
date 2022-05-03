@@ -1,0 +1,38 @@
+.container{
+    width:100%;
+ 
+    margin-top:25px;
+    padding-left:10%;
+    padding-right: 10%;
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.logocontainer{
+    display: flex;
+
+
+}
+
+.logodesc{
+    margin-left:16px;
+    margin-top: 0px;
+    color:#398dd6;
+    
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.logoheading{
+    font-family: serif;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.socialmedia{
+    display:flex;
+    gap:22px;
+    align-self: center;
+    align-items: flex-end;
+}

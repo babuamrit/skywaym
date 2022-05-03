@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    min-height: 460px;
+
+    padding-left: 10%;
+    padding-right: 10%;
+   padding-top: 60px;
+   padding-bottom:60px ;
+  
+    background-color: #ececec;
+}
+.innercontainer{
+    width:100%;
+   
+    background-color: white;
+   
+    display: flex;
+    padding-bottom: 25px;
+}
+
+.text{
+    color: #4b5563;
+    text-align:justify;
+  margin-top: 25px;
+  padding-right: 25px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.intro{
+    color:black;
+    font-size: 31px;
+    margin-bottom: 25px;
+}

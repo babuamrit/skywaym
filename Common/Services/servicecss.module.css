@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:40px;
+    padding-top: 70px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 130px;
+    background-image: url("/serviceback.jpg");
+}
+
+.heading{
+    font-size:40px;
+    font-weight: 700;
+    color: #624444;
+}
+
+.servicecontainer{
+    width: 100%;
+    display: flex;
+    gap: 16px;
+    justify-content: space-between;
+}

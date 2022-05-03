@@ -1,0 +1,20 @@
+.container{
+    display:grid;
+    flex-direction: column;
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    
+}
+
+.gridItems{
+    display:grid;
+ 
+    
+}
+
+.griditem{
+    height:200px;
+    width: 200px;
+    background-color: red;
+}
